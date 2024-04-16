@@ -23,7 +23,7 @@ android {
             useSupportLibrary = true
         }
 
-        buildConfigField("String", "DATABASE_URL", "\"jdbc:postgresql://localhost:5432/gestion_club?user=postgres&password=Jk@1lkM~p\"")
+        buildConfigField("String", "DATABASE_URL", "\"jdbc:postgresql://localhost:5432/gestion_club?user=postgres&password=xxx\"")
     }
 
     buildTypes {
