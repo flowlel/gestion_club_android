@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gestion speleo</string>
+    <string name="mail">Mail</string>
+    <string name="nom">Nom</string>
+    <string name="licence">Licence</string>
+    <string name="connexion">Créer</string>
+</resources>
